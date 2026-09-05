@@ -9,7 +9,7 @@ description = "A Python starter template bringing clarity and organization to ne
 authors = ["Tejas Nikhar <tejastn10@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/Kosha-Nirman/lumen"
+repository = "https://github.com/rivetron/lumen"
 
 keywords = ["python3"]
 classifiers = [
